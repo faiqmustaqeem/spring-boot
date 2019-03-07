@@ -33,6 +33,19 @@ public class UserController {
         return list;
     }
 
+    @GetMapping("/getUserById")
+    public Response getUserById(@RequestParam("id")String id)
+    {
+        Optional<UserModel> userModel= this.userRepository.findById(id);
+        if(userModel.isPresent())
+        {
+            return new Response("success" , "user found" , userModel);
+        }
+        else {
+            return new Response("failure" , "incorrect id" , null);
+        }
+    }
+
 //    @PostMapping
 //    private void insert(@RequestBody UserModel model)
 //    {

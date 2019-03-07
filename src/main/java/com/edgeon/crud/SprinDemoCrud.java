@@ -17,7 +17,6 @@ public class SprinDemoCrud {
     public static void main(String[] args) {
 
 
-
         SpringApplication.run(SprinDemoCrud.class, args);
 
     }
