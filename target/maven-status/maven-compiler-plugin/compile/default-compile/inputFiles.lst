@@ -1,0 +1,8 @@
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/models/TaskModel.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/controllers/TaskController.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/SprinDemoCrud.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/models/UserModel.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/models/Response.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/controllers/UserController.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/repositories/TaskRepository.java
+/home/faiq/IdeaProjects/crud/src/main/java/com/edgeon/crud/repositories/UserRepository.java

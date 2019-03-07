@@ -1,0 +1,14 @@
+com/edgeon/crud/storage/StorageService.class
+com/edgeon/crud/models/Response.class
+com/edgeon/crud/storage/StorageException.class
+com/edgeon/crud/storage/StorageFileNotFoundException.class
+com/edgeon/crud/storage/StorageProperties.class
+com/edgeon/crud/controllers/TaskController.class
+com/edgeon/crud/SprinDemoCrud.class
+com/edgeon/crud/repositories/TaskRepository.class
+com/edgeon/crud/Configurations/SwaggerConfiguration.class
+com/edgeon/crud/storage/FileSystemStorageService.class
+com/edgeon/crud/repositories/UserRepository.class
+com/edgeon/crud/models/TaskModel.class
+com/edgeon/crud/controllers/UserController.class
+com/edgeon/crud/models/UserModel.class
