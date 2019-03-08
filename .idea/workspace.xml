@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc3a78e-1a56-4265-8803-7ee9186c7b56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edgeon/crud/Configurations/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edgeon/crud/Configurations/WebSecurityConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dc3a78e-1a56-4265-8803-7ee9186c7b56" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -285,7 +283,7 @@
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552030670733" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552031481645" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-rest-best-practices" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -376,12 +374,12 @@
       <workItem from="1551891032768" duration="2918000" />
       <workItem from="1551941171433" duration="4451000" />
       <workItem from="1551950839311" duration="4516000" />
-      <workItem from="1552030239220" duration="685000" />
+      <workItem from="1552030239220" duration="1241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40859000" />
+    <option name="totallyTimeSpent" value="41415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
