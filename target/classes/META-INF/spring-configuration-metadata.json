@@ -2,22 +2,12 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "com.edgeon.crud.Configurations.FileStorageProperties",
-      "name": "file",
-      "type": "com.edgeon.crud.Configurations.FileStorageProperties"
-    },
-    {
       "sourceType": "com.edgeon.crud.storage.StorageProperties",
       "name": "storage",
       "type": "com.edgeon.crud.storage.StorageProperties"
     }
   ],
   "properties": [
-    {
-      "sourceType": "com.edgeon.crud.Configurations.FileStorageProperties",
-      "name": "file.upload-dir",
-      "type": "java.lang.String"
-    },
     {
       "sourceType": "com.edgeon.crud.storage.StorageProperties",
       "defaultValue": "upload-dir",
