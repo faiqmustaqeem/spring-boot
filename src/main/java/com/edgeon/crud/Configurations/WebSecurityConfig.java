@@ -24,6 +24,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
         auth
                 .inMemoryAuthentication()
-                .withUser("faiq").password("123456").roles("USER");
+                .withUser("admin").password("admin").roles("USER");
     }
 }
